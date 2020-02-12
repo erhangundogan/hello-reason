@@ -1,9 +1,9 @@
-Hello World
-===========
+Hello Reason
+============
 
 Simplest Reason console application to print
 
-    Hello world!
+    Hello reason!
 
 
 Install

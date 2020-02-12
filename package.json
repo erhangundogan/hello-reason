@@ -1,7 +1,7 @@
 {
   "name": "hello",
   "version": "0.1.0",
-  "description": "Hello world",
+  "description": "Hello reason!",
   "license": "MIT",
   "esy": {
     "build": "dune build -p #{self.name}"
